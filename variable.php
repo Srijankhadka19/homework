@@ -6,6 +6,9 @@
     <title>Document</title>
 </head>
 <body>
+<!-- example of variables in php -->
+
+
     <?php
     $name="srijan";
     echo"$name";
@@ -14,5 +17,11 @@
     $sem="sixth";
     echo"$sem"
     ?>
+
+<!-- example of arithmetic operator in php -->
+
+
+
+
 </body>
 </html>
